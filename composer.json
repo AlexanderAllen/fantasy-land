@@ -1,5 +1,5 @@
 {
-  "name": "functional-php/fantasy-land",
+  "name": "alexanderallen/fantasy-land",
   "description": "Specification for interoperability of common algebraic structures in PHP",
   "type": "library",
   "license": "BSD-3-Clause",
